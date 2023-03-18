@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Star Wars Explorer",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
